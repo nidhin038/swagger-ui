@@ -11,4 +11,4 @@ function App() {
   );
 }
 
-export default App = () => <SwaggerUI url="https://geescuisine.com/swagger/config/config.php" />
+export default App = () => <SwaggerUI url="<Config url comes here>" />
